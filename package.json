@@ -1,0 +1,17 @@
+{
+  "name": "node-ppk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asn1": "^0.2.3",
+    "node-rsa": "^0.4.1",
+    "sshpk": "^1.10.0"
+  }
+}
